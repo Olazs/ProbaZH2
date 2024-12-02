@@ -6,4 +6,5 @@ set(CMAKE_C_STANDARD 11)
 add_executable(ProbaZH2 1.c
         2.c
         3.c
-        4.c)
+        4.c
+        5.c)
