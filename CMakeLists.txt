@@ -4,4 +4,5 @@ project(ProbaZH2 C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(ProbaZH2 1.c
-        2.c)
+        2.c
+        3.c)

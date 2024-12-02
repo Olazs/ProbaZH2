@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-int main() {
+int program1() {
     int user_number, random_number, attempts = 0;
 
     // Véletlenszerű számok generálásához szükséges inicializálás

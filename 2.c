@@ -12,7 +12,7 @@ float generate_random_float() {
     return (float)(rand()) / (float)(RAND_MAX) * 20.0 - 8.0;  // Véletlen szám -8.0 és 12.0 között
 }
 
-int main() {
+int program2() {
     float arr[SIZE];
     int i, j;
     float temp;
