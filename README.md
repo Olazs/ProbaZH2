@@ -3,7 +3,7 @@
 
 ## Feladatok:
 
-**1 feladat:**
+**1. feladat:**
 Irjon programot, amely a felhasznalotol beker egy 10-nel kisebb (0 . . . 9) pozitıv egesz szamot.
 A program ezutan generaljon egesz veletlenszamokat a 0. . .100 intervallumban egeszen ad-
 dig, amıg a veletlenszam nem egyezik meg a felhasznalo altal megadott ertekkel. Vegezetul
