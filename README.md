@@ -28,3 +28,6 @@ Irjon programot, amelyben letrehoz egy 16 integer ertek tarolasara alkalmas vekt
 vektor elso 15 elemet toltse fel veletlenszamkent generalt binaris ertekekkel. A program a
 vektor utolso elemet hatarozza meg ugy, hogy a vektorelemek altal adott binaris ertek paros
 paritasu legyen.
+
+### Ahhoz, hogy egy program konnyeden indithato legyen, a `programX`-et legyen kedves a felhasznalo main-re modositani
+~~Ahol X egy, a feladatnak megfelelo valos szam.~~
