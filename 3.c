@@ -11,7 +11,7 @@ int program3() {
     // Fájl megnyitás próbálkozása
     while (1) {
         // Kérjünk be egy fájlnevet
-        printf("Add meg a fájl nevét: ");
+        printf("Add meg a fájl nevét: \n");
         scanf("%s", filename);
 
         // Megpróbáljuk megnyitni a fájlt
