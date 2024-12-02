@@ -67,6 +67,12 @@ build CMakeFiles/ProbaZH2.dir/3.c.obj: C_COMPILER__ProbaZH2_unscanned_Debug D$:/
   OBJECT_DIR = CMakeFiles\ProbaZH2.dir
   OBJECT_FILE_DIR = CMakeFiles\ProbaZH2.dir
 
+build CMakeFiles/ProbaZH2.dir/4.c.obj: C_COMPILER__ProbaZH2_unscanned_Debug D$:/GitHub/ProbaZH2/4.c || cmake_object_order_depends_target_ProbaZH2
+  DEP_FILE = CMakeFiles\ProbaZH2.dir\4.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ProbaZH2.dir
+  OBJECT_FILE_DIR = CMakeFiles\ProbaZH2.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target ProbaZH2
@@ -75,7 +81,7 @@ build CMakeFiles/ProbaZH2.dir/3.c.obj: C_COMPILER__ProbaZH2_unscanned_Debug D$:/
 #############################################
 # Link the executable ProbaZH2.exe
 
-build ProbaZH2.exe: C_EXECUTABLE_LINKER__ProbaZH2_Debug CMakeFiles/ProbaZH2.dir/1.c.obj CMakeFiles/ProbaZH2.dir/2.c.obj CMakeFiles/ProbaZH2.dir/3.c.obj
+build ProbaZH2.exe: C_EXECUTABLE_LINKER__ProbaZH2_Debug CMakeFiles/ProbaZH2.dir/1.c.obj CMakeFiles/ProbaZH2.dir/2.c.obj CMakeFiles/ProbaZH2.dir/3.c.obj CMakeFiles/ProbaZH2.dir/4.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\ProbaZH2.dir
